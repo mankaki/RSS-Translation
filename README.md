@@ -12,4 +12,3 @@
 ## 已转换翻译源
 
  - source001 [https://rsshub.app/appleinsider](https://rsshub.app/appleinsider) -> [appleinsider.xml](rss/appleinsider.xml)
- - source002 [https://rsshub.app/invisionapp/inside-design](https://rsshub.app/invisionapp/inside-design) -> [invisionapp.xml](rss/invisionapp.xml)
