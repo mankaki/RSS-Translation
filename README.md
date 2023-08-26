@@ -12,3 +12,11 @@
 ## 已转换翻译源
 
  - source001 [https://rsshub.app/appleinsider](https://rsshub.app/appleinsider) -> [appleinsider.xml](rss/appleinsider.xml)
+ - source002 [https://www.reddit.com/r/ANormalDayInRussia.rss](https://www.reddit.com/r/ANormalDayInRussia.rss) -> [ANormalDayInRussia.xml](rss/ANormalDayInRussia.xml)
+ - source003 [https://www.reddit.com/r/aww.rss](https://www.reddit.com/r/aww.rss) -> [aww.xml](rss/aww.xml)
+ - source004 [https://www.reddit.com/r/ChatGPT.rss](https://www.reddit.com/r/ChatGPT.rss) -> [ChatGPT.xml](rss/ChatGPT.xml)
+ - source005 [https://www.reddit.com/r/funny.rss](https://www.reddit.com/r/funny.rss) -> [funny.xml](rss/funny.xml)
+ - source006 [https://www.reddit.com/r/IdiotsFightingThings.rss](https://www.reddit.com/r/IdiotsFightingThings.rss) -> [IdiotsFightingThings.xml](rss/IdiotsFightingThings.xml)
+ - source007 [https://www.reddit.com/r/learnusefultalents.rss](https://www.reddit.com/r/learnusefultalents.rss) -> [learnusefultalents.xml](rss/learnusefultalents.xml)
+ - source008 [https://www.reddit.com/r/LearnUselessTalents.rss](https://www.reddit.com/r/LearnUselessTalents.rss) -> [LearnUselessTalents.xml](rss/LearnUselessTalents.xml)
+ - source009 [https://www.reddit.com/r/midjourney.rss](https://www.reddit.com/r/midjourney.rss) -> [midjourney.xml](rss/midjourney.xml)
